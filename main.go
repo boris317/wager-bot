@@ -10,7 +10,7 @@ import (
 	"github.com/boris317/wager-bot/slack"
 )
 
-const TOKEN = "xoxb-475857069414-473839720096-1u6gxFFuuiRVSJE3IiHcfiA1"
+const TOKEN = "*****"
 
 type JSONStringer struct{}
 
